@@ -1,3 +1,30 @@
-body {
-    background-color: blanchedalmond;
+html, body{
+    background-color: #C69F89;
+    padding: 0;
+    height: 100%;
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.secondary-color{
+    background-color: #84894A;
+}
+
+.hamburger{
+    width: 25%;
+}
+
+.title{
+    width: 50%;
+    text-align: center;
+}
+
+.icon{
+    width: 25%;
+    text-align: center;
 }

@@ -3,10 +3,28 @@ html, body{
     padding: 0;
     height: 100%;
     margin: 0;
-    background-image: url(https://img1.wsimg.com/isteam/ip/62687c77-91d9-46a7-bdef-d8e6e607f517/F6AE46F1-8D63-4081-84EE-319712C43D6D_1_105_c.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,cg:true);
+}
+
+header{
+    max-height: 12%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-height: 70%;
+    max-width: 70%;
 }
 
 .first_page{
+    background-image: url(https://img1.wsimg.com/isteam/ip/62687c77-91d9-46a7-bdef-d8e6e607f517/F6AE46F1-8D63-4081-84EE-319712C43D6D_1_105_c.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,cg:true);
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+}
+.second_page{
     display:flex;
     flex-direction: column;
     height: 100%;
@@ -35,10 +53,11 @@ html, body{
 
 .icon{
     width: 25%;
+
     text-align: center;
 }
 
-.boxed{
+/*.boxed{
     border: 1px solid #034C3C;
     background-color: #034C3C;
     text-align: center;
@@ -49,7 +68,7 @@ html, body{
     margin-top: 125%;
     box-shadow: black 2px 2px 2px;
 }
-
+*/
 .button {
     background-color: #034C3C; /* Green */
     border: none;
@@ -63,4 +82,22 @@ html, body{
     margin-top: auto;
     margin-bottom: 4rem;
     width: 50%;
+  }
+
+  @media (min-width: 500px){
+      body {
+          color: red;
+          background-color: #C69F89;
+      }
+      .button {
+        width: 25%;
+      }
+
+      header {
+          height: 5rem;
+      }
+      img {
+          max-height: 25%;
+          max-width: 25%;
+      }
   }

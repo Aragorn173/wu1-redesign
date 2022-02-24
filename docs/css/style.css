@@ -9,16 +9,20 @@ header{
     max-height: 12%;
     max-width: 100%;
     margin: 0;
-    padding: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 img {
     max-height: 70%;
     max-width: 70%;
 }
+h2 {
+    font-size: 0rem;
+}
 
 .first_page{
-    background-image: url(https://img1.wsimg.com/isteam/ip/62687c77-91d9-46a7-bdef-d8e6e607f517/F6AE46F1-8D63-4081-84EE-319712C43D6D_1_105_c.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,cg:true);
+    background-image: url(https://s1.1zoom.me/b5050/144/Sweden_Forests_453348_1920x1080.jpg);
     display:flex;
     flex-direction: column;
     height: 100%;
@@ -44,6 +48,7 @@ img {
 
 .hamburger{
     width: 25%;
+    text-align: center;
 }
 
 .title{
@@ -53,7 +58,6 @@ img {
 
 .icon{
     width: 25%;
-
     text-align: center;
 }
 
@@ -86,7 +90,6 @@ img {
 
   @media (min-width: 500px){
       body {
-          color: red;
           background-color: #C69F89;
       }
       .button {
@@ -97,7 +100,14 @@ img {
           height: 5rem;
       }
       img {
-          max-height: 25%;
-          max-width: 25%;
+          max-height: 15%;
+          max-width: 15%;
       }
+      h1 {
+        font-size: 0rem;
+      }
+      h2 {
+          font-size: 4rem;
+      }
+
   }

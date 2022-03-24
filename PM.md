@@ -7,7 +7,7 @@ Alvin Liljeström 17-03-2022
 Syftet med prohektet var att skapa en redesign av bildterapihusets webbsida för den var gammal och var inte enkel att använda.
 
 ## Bakgrund
-Jag började arbetet med att bara skapa en tom sida där jag sen la dit en bakgrundsfärg och en navbar. På navbaren lade jag till en icon, en titel och en hamburgarmeny. Sedan skapade jag en call to action knapp på sidan som tar dig till en annan sida som ska vara bokningssidan. Sedan la jag till media-query för att göra sidan responsiv så den fungerar på mindre skärmar som en mobil. Det jag gjorde sen var att lägga till textinnehållet på sidan. Sist validerade jag sidan och fixade eventualle fel tills sidan validerade korrekt.
+Jag började arbetet med att bara skapa en tom sida där jag sen la dit en bakgrundsfärg och en navbar. På navbaren lade jag till en icon, en titel och en hamburgarmeny. Sedan skapade jag en call to action knapp på sidan som tar dig till en annan sida som ska vara bokningssidan. Sedan la jag till media-query för att göra sidan responsiv så den fungerar på mindre skärmar som en mobil. Det jag gjorde sen var att lägga till textinnehållet på sidan. Sist validerade jag sidan och fixade eventuella fel tills sidan validerade korrekt.
 
 
 ## Positiva erfarenheter

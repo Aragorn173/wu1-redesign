@@ -12,7 +12,7 @@ Jag började arbetet med att bara skapa en tom sida där jag sen la dit en bakgr
 
 ## Positiva erfarenheter
 
-jag skulle vara nöjd med sidans slutgiltiga design. Det gick ganska bra att skapa sidan struktur och att lägga in innehållet. Det gick bra med att använda media-query och jag lyckades få sidan responsiv på ett funktionellt och fint sätt.
+jag skulle vara nöjd med sidans slutgiltiga design. Det gick ganska bra att skapa sidan struktur och att lägga in innehållet. Det gick bra med att använda media-query och jag lyckades få sidan responsiv på ett funktionellt och fint sätt. Sidan validerar och visar inga errors eller varningar i html eller i css. Att validera sidan gick snabbt och det var inga större problem som uppstod.
 
 
 ## Negativa erfarenheter

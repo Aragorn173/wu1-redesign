@@ -22,7 +22,6 @@ img {
 }
 
 .first_page{
-    /*background-image: url(https://s1.1zoom.me/b5050/144/Sweden_Forests_453348_1920x1080.jpg);*/
     display:flex;
     flex-direction: column;
     height: 100%;
@@ -61,18 +60,6 @@ img {
     text-align: center;
 }
 
-/*.boxed{
-    border: 1px solid #034C3C;
-    background-color: #034C3C;
-    text-align: center;
-    width: 50%;
-    align-items: center;
-    border-radius: 2rem;
-    margin-left: 25%;
-    margin-top: 125%;
-    box-shadow: black 2px 2px 2px;
-}
-*/
 .button {
     background-color: #034C3C; /* Green */
     border: none;
